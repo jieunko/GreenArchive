@@ -7,9 +7,7 @@
 
 # 참고링크
 
-
-# Facial-Emotion-Recognition-using-OpenCV-and-Deepface:
-# https://github.com/manish-9245/Facial-Emotion-Recognition-using-OpenCV-and-Deepface
-
 # In Search of the Robust Facial Expressions Recognition Model: The Visual Cross-Corpus Study:
 # https://github.com/ElenaRyumina/EMO-AffectNetModel/blob/main/README.md
+
+
