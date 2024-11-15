@@ -1,0 +1,12 @@
+https://huggingface.co/ElenaRyumina/face_emotion_recognition
+
+pip install tensorflow==2.17.0 scikit-learn==1.5.1 batch-face==1.5.0 mediapipe==0.10.14 seaborn==0.13.2 tqdm==4.66.4
+
+
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
+
+conda install openai
+
+pip install PyQt5
+
+pip install pyttsx3
